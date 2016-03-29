@@ -6,7 +6,7 @@ public class WeekdayCalculator
 	{
 		Scanner keyboard = new Scanner(System.in);
 
-		System.out.println("Welcome to AtopaGh fantastic birth-o-meter!");
+		System.out.println("Welcome to fantastic birth-o-meter!");
 		System.out.println();
 		System.out.println("All you have to do is enter your birth date, and it will");
 		System.out.println("tell you the day of the week on which you were born.");

@@ -1,10 +1,4 @@
 
-/**
- * Write a description of class Keychains3 here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
- */
 public class Keychains3
 {
     // instance variables - replace the example below with your own

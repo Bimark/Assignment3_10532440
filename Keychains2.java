@@ -6,7 +6,7 @@ public class Keychains2{
         Scanner kb=new Scanner(System.in);
         int choice,a,b,c,d,e,f,num=0;
         int cost= num*10;
-        System.out.println("AtopaGh Keychain Shop\n");
+        System.out.println("Keychain Shop\n");
         
         do
         {

@@ -5,7 +5,7 @@ public class Keychains1{
     {
         Scanner kb=new Scanner(System.in);
         int choice;
-        System.out.println("AtopaGh Keychain Shop\n");
+        System.out.println("Keychain Shop\n");
         
         do
         {
